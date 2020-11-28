@@ -2,7 +2,7 @@
 
 ## Usage
 
-```
+```php
 use Clivern\Event\EventBus\EventInterface;
 use Clivern\Event\EventBus\EventListenerInterface;
 use Clivern\Event\EventBus\EventBus;
